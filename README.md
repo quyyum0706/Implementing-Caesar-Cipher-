@@ -73,11 +73,7 @@ Enter the text to decrypt: Lipps Asvph!
 PLAINTEXT: Hello World!
 ```
 
-## **🚀 Customization & Future Enhancements**
-- ✅ **Adjust the key range** (e.g., allow shifts beyond `25`).
-- ✅ **Implement frequency analysis** to decrypt unknown messages.
-- ✅ **Add a GUI interface** with **Tkinter** for better usability.
-- ✅ **Enable multi-language encryption** beyond `A-Z` characters.
+
 
 ## **📄 License**
 This project is open-source and available for educational use.
